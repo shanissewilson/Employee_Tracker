@@ -13,3 +13,6 @@ Github: https://github.com/shanissewilson
 
 # Credits
 Multiple tutoring sessions 
+
+# Video
+https://watch.screencastify.com/v/6bnPzJYrPkm7QuDST9o8
